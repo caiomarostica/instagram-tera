@@ -1,0 +1,13 @@
+.stories {
+	overflow-x: hidden;
+	overflow-y: auto;
+	width: 100%;
+	padding: 16px 0;
+}
+
+.stories__container {
+	align-items: center;
+	display: flex;
+	justify-content: flex-start;
+	width: 100%;
+}
