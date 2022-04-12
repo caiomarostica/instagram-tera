@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Instagram - Tera
+
+Esse projeto foi desenvolvido durante as aulas de aprofundamento em React no bootcamp de Desenvolvimento Full Stack da Tera.
+
+---------------------------------------------------------------------------
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
